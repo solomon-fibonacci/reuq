@@ -106,7 +106,7 @@ Make `index.html` to become this
   </body>
   ...
 ```
-`rq-tmpl='videosList'` tells reuq the name of them template. All templates on a DOM must have unique names.
+`rq-tmpl='videosList'` tells reuq the name of the template. All templates on a DOM must have unique names.
 `rq-rsrc='videos'` tells reuq what resource this template is tied to. In this case we are tying it to the `videos`
 resource we declared in our `app.js`.
 
